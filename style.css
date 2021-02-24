@@ -1,0 +1,19 @@
+.footer{
+    position: fixed;
+    background-color: grey;
+    bottom: 0;
+    color: white;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
+.questions{
+    top: 10;
+    width: 100%;
+    height: fit-content;
+}
+
+.header{
+    width: 100%;
+}
